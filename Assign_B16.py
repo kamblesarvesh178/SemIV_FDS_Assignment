@@ -35,6 +35,7 @@ for i in range(n):
     per.append(m)
 
 quicksort(per,0,n-1)
+print(per)
 
 print("Sorted array is :")
 for i in range(n):
